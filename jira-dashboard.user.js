@@ -4,6 +4,7 @@
 // @description  Remove the dashboard-tab
 // @author       Ali Karbassi
 // @match        http://*/secure/Dashboard.jspa
+// @downloadURL  https://github.com/karbassi/jira-userscript/raw/master/jira-dashboard.user.js
 // ==/UserScript==
 
 (function() {
